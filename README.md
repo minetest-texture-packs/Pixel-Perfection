@@ -1,6 +1,8 @@
 # Pixel-Perfection
 by Hugh "XSSheep" Rutland
 
+![Template](Template.png)
+
 ## Contributors
 Toby109tt
 
