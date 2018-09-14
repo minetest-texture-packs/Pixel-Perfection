@@ -1,0 +1,6 @@
+default:acacia_bush_leaves all default_acacia_leaves.png
+default:bush_leaves all default_leaves.png
+bedrock:bedrock all bedrock.png
+bedrock2:bedrock all bedrock.png
+bedrock2:bedrock all bedrock.png
+bedrock3:bedrock all bedrock.png
