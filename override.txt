@@ -4,3 +4,5 @@ bedrock:bedrock all bedrock.png
 bedrock2:bedrock all bedrock.png
 bedrock2:bedrock all bedrock.png
 bedrock3:bedrock all bedrock.png
+fossils:bone_block top fossils_bone_block_top.png
+fossils:bone_block bottom fossils_bone_block_top.png
