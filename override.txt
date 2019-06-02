@@ -11,3 +11,13 @@ farming:farming_straw bottom farming_straw_top.png
 crafting:work_bench top crafting_work_bench_top.png
 crafting:work_bench sides crafting_work_bench_side.png
 crafting:work_bench bottom crafting_work_bench_bottom.png
+crafting:furnace top default_furnace_top.png
+crafting:furnace sides default_furnace_side.png
+crafting:furnace bottom default_furnace_bottom.png
+crafting:furnace front default_furnace_front.png
+
+crafting:furnace_active top default_furnace_top.png
+crafting:furnace_active left default_furnace_side.png
+crafting:furnace_active right default_furnace_side.png
+crafting:furnace_active back default_furnace_side.png
+crafting:furnace_active bottom default_furnace_bottom.png
