@@ -21,3 +21,6 @@ crafting:furnace_active left default_furnace_side.png
 crafting:furnace_active right default_furnace_side.png
 crafting:furnace_active back default_furnace_side.png
 crafting:furnace_active bottom default_furnace_bottom.png
+
+xpanes:pane_flat left default_fence_wood.png
+xpanes:pane_flat right default_fence_wood.png
