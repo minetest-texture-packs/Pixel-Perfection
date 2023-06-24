@@ -5,6 +5,7 @@ by Hugh "XSSheep" Rutland
 
 ## Contributors
 Toby109tt
+tacotexmex
 devurandom
 
 ## Licensing
